@@ -11,8 +11,6 @@ I am a student in the Information Technology study program. Enjoy learning somet
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian463588&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Adrian463588)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Adrian463588)  
 
 ![Profile views](https://gpvc.arturio.dev/Adrian463588)  
