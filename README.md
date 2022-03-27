@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adrian
 #### I am a student at Gadjah Mada University
-I am a student in the Information Technology study program. Enjoy learning something new!
+I am a student in the Information Engineering study program. Enjoy learning something new!
 
 - 🌱 I’m currently learning Mobile Development 
 
