@@ -13,4 +13,4 @@ I am a student in the Information Engineering study program. Enjoy learning some
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Adrian463588)  
 
-![Profile views](https://gpvc.arturio.dev/Adrian463588)  
+![Profile Views](https://komarev.com/ghpvc/?username=adrian463588&color=blue)
